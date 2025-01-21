@@ -85,4 +85,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 A video demo showcasing the chatbot's functionality: 
-[YouTube Video]([https://www.youtube.com/watch?v=your_video_id](https://youtu.be/68X_zq9tYIE)
+https://youtu.be/68X_zq9tYIE
