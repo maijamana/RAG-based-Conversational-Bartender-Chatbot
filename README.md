@@ -1,5 +1,8 @@
 # RAG-based Conversational Bartender Chatbot
 
+Chatbot Link - https://69f4a626f678b60f69.gradio.live/
+(This share link expires in 72 hours)
+
 This project implements a Retrieval-Augmented Generation (RAG) conversational chatbot designed to provide cocktail recommendations and recipes based on user input. The bot is equipped with memory to maintain context throughout a conversation, making interactions seamless and dynamic.
 
 ## Features
