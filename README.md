@@ -29,29 +29,6 @@ This project implements a Retrieval-Augmented Generation (RAG) conversational ch
 - Python 3.8 or higher
 - An OpenAI API key
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_directory>
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Set your OpenAI API key as an environment variable:
-   ```bash
-   export OPENAI_API_KEY="your_openai_api_key"
-   ```
-
-### Running the Application
-1. Launch the Gradio interface:
-   ```bash
-   python app.py
-   ```
-2. Open the provided local or public URL in your browser.
-3. Start chatting with the bot by entering your queries.
-
 ## Usage
 - **Ask for recommendations**:
   - Example: "What are some cocktails containing rum?"
@@ -64,24 +41,6 @@ This project implements a Retrieval-Augmented Generation (RAG) conversational ch
 
 Here is a screenshot demonstrating the chatbot in action (using terminal):
 ![Screenshot 1](example1.png)
-
-## File Structure
-```
-.
-├── app.py                  # Main application script
-├── requirements.txt        # List of dependencies
-├── data/                   # Directory for storing any required data files
-├── models/                 # Pre-trained and fine-tuned models (if applicable)
-└── README.md               # Project documentation
-```
-
-## Future Enhancements
-- Add support for multi-language interactions.
-- Integrate more data sources for cocktail recipes.
-- Enhance memory capabilities for long-term user preferences.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 - OpenAI for providing GPT-based capabilities.
