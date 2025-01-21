@@ -56,11 +56,8 @@ This project implements a Retrieval-Augmented Generation (RAG) conversational ch
 
 ## Example of Work in the Notebook (Screenshots)
 
-Here are some screenshots demonstrating the chatbot in action:
-
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-![Screenshot 3](path/to/screenshot3.png)
+Here is a screenshot demonstrating the chatbot in action (using terminal):
+![Screenshot 1](example1.png)
 
 ## File Structure
 ```
