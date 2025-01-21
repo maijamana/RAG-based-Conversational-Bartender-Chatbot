@@ -3,6 +3,9 @@
 Chatbot Link - https://69f4a626f678b60f69.gradio.live/
 (This share link expires in 72 hours)
 
+A video demo showcasing the chatbot's functionality: 
+https://youtu.be/68X_zq9tYIE
+
 This project implements a Retrieval-Augmented Generation (RAG) conversational chatbot designed to provide cocktail recommendations and recipes based on user input. The bot is equipped with memory to maintain context throughout a conversation, making interactions seamless and dynamic.
 
 ## Features
@@ -85,7 +88,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Hugging Face for their robust NLP tools.
 - LangChain for seamless RAG and memory integration.
 
----
 
-A video demo showcasing the chatbot's functionality: 
-https://youtu.be/68X_zq9tYIE
