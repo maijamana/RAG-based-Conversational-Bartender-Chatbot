@@ -4,7 +4,7 @@ Chatbot Link - https://69f4a626f678b60f69.gradio.live/
 (This share link expires in 72 hours)
 
 A video demo showcasing the chatbot's functionality: 
-https://youtu.be/68X_zq9tYIE
+[https://youtu.be/68X_zq9tYIE](https://youtu.be/bcs91_XYPFU)
 
 This project implements a Retrieval-Augmented Generation (RAG) conversational chatbot designed to provide cocktail recommendations and recipes based on user input. The bot is equipped with memory to maintain context throughout a conversation, making interactions seamless and dynamic.
 
