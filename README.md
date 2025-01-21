@@ -11,19 +11,17 @@ This project implements a Retrieval-Augmented Generation (RAG) conversational ch
 ## Technology Stack
 - **Programming Language**: Python
 - **Frameworks & Libraries**:
-  - [Gradio](https://gradio.app): For building the interactive user interface.
-  - [LangChain](https://langchain.com): For implementing RAG-based logic and conversational memory.
-  - [OpenAI API](https://openai.com/api/): For generative language model capabilities.
-  - [Transformers](https://huggingface.co/transformers/): For embedding generation and text processing.
-- **Storage**:
-  - [FAISS](https://faiss.ai): For vector storage and similarity search.
+  - Gradio: For building the interactive user interface.
+  - LangChain: For implementing RAG-based logic and conversational memory.
+  - OpenAI API: For generative language model capabilities.
+  - Hugging Face Transformers: For embedding generation and text processing.
+  - FAISS & Chroma: For vector storage and similarity search.
 
 ## Setup Instructions
 
 ### Prerequisites
 - Python 3.8 or higher
 - An OpenAI API key
-- Basic understanding of Python and AI concepts
 
 ### Installation
 1. Clone the repository:
@@ -56,6 +54,14 @@ This project implements a Retrieval-Augmented Generation (RAG) conversational ch
 - **Explore variations**:
   - Example: "What cocktails can I make with vodka and lemon?"
 
+## Example of Work in the Notebook (Screenshots)
+
+Here are some screenshots demonstrating the chatbot in action:
+
+![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 3](path/to/screenshot3.png)
+
 ## File Structure
 ```
 .
@@ -80,3 +86,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - LangChain for seamless RAG and memory integration.
 
 ---
+
+A video demo showcasing the chatbot's functionality is available in the repository.
